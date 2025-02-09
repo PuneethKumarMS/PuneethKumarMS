@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there! 👋 I'm Puneeth
+
+🎓 Currently in my 6th semester pursuing Computer Science & Engineering.
+💡 Passionate about Software Development, Python, and Web Technologies.
+🚀 Worked on DonorHub and Phishing Detection System projects.
+📚 Learning DSA with Python, Web Development (HTML, CSS, JavaScript), and Cybersecurity.
+
+🛠️ Tech Stack
+
+Programming Languages: Python, C (Basic)
+
+Web Development: HTML, CSS
+
+Databases: MySQL, Firebase
+
+Tools & Platforms: Git, GitHub, VS Code, PyCharm
 
 
-**PuneethKumarMS/PuneethKumarMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Connect with Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 GitHub
+📧 Email: puneethkumarms21@gmail.com
