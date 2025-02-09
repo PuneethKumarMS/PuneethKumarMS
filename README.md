@@ -10,12 +10,15 @@
 
 
 ## 🛠️ Tech Stack  
-- **Programming Languages:** Python, C (Basic)  
+- **Programming Languages:** Python,C(Basic)  
 - **Web Development:** HTML, CSS  
+
 - **Databases:** MySQL, Firebase  
+
 - **Tools & Platforms:** Git, GitHub, VS Code, PyCharm  
 
 
 ## 📌 Connect with Me  
 📧 Email: [puneethkumarms21@gmail.com](mailto:puneethkumarms21@gmail.com)  
+
 🔗 [GitHub](https://github.com/your-username
