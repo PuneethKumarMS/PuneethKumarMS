@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Puneeth  
 
-🎓 Currently in my 7th semester pursuing **Computer Science & Engineering**.  
+🎓 Currently in my 7th semester pursuing **Computer Science & Engineering**.
+
+🏆 2nd place - National Level Hackathon (AI-based Cybersecurity project, BGSIT)
 
 💡 Passionate about **Software Development, Python, and Web Technologies**.  
 
