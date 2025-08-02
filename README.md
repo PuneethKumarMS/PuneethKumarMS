@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Puneeth  
 
-🎓 Currently in my 6th semester pursuing **Computer Science & Engineering**.  
+🎓 Currently in my 7th semester pursuing **Computer Science & Engineering**.  
 
 💡 Passionate about **Software Development, Python, and Web Technologies**.  
 
-🚀 Worked on **DonorHub** and **Phishing Detection System** projects.  
+🚀 Worked on **AI Based Cyberthreat prediction and detection** and **Phishing Detection System** projects.  
 
 📚 Learning **DSA with Python, Web Development (HTML, CSS, JavaScript), and Cybersecurity**.  
 
@@ -15,7 +15,7 @@
 
 - **Databases:** MySQL, Firebase  
 
-- **Tools & Platforms:** Git, GitHub, VS Code, PyCharm  
+- **Tools & Platforms:** Git, GitHub, VS Code, PyCharm, Noteboks, Chatgpt, Gemini, Replit  
 
 
 ## 📌 Connect with Me  
