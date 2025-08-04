@@ -15,7 +15,7 @@
 - **Programming Languages:** Python,C(Basic)  
 - **Web Development:** HTML, CSS  
 
-- **Databases:** MySQL, Firebase  
+- **Databases:** MySQL  
 
 - **Tools & Platforms:** Git, GitHub, VS Code, PyCharm, Noteboks, Chatgpt, Gemini, Replit  
 
