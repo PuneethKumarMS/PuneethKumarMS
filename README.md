@@ -1,26 +1,52 @@
-# Hi there! 👋 I'm Puneeth  
+Hi there! 👋 I'm Puneeth  
+🎓 Currently in my 7th semester pursuing Computer Science & Engineering.  
 
-🎓 Currently in my 7th semester pursuing **Computer Science & Engineering**.
+🏆 2nd place - National Level Hackathon (AI-based Cybersecurity project, BGSIT)  
 
-🏆 **2nd place** - National Level Hackathon (AI-based Cybersecurity project, BGSIT)
+💡 Passionate about Software Development, Python, and Web Technologies.  
 
-💡 Passionate about **Software Development, Python, and Web Technologies**.  
+🚀 Worked on AI Based Cyberthreat prediction and detection and Phishing Detection System projects.  
 
-🚀 Worked on **AI Based Cyberthreat prediction and detection** and **Phishing Detection System** projects.  
+📚 Learning DSA with Python, Web Development (HTML, CSS, JavaScript), and Cybersecurity.  
 
-📚 Learning **DSA with Python, Web Development (HTML, CSS, JavaScript), and Cybersecurity**.  
+🛠️ Tech Stack  
+Programming Languages: Python, C (Basic)  
+
+Web Development: HTML, CSS  
+
+Databases: MySQL  
+
+Tools & Platforms: Git, GitHub, VS Code, PyCharm, Noteboks, Chatgpt, Gemini, Replit  
+
+📌 Connect with Me  
+📧 Email: puneethkumarms21@gmail.com  
+
+🔗 GitHub  
+
+---
+
+## 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PuneethKumarMS&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=PuneethKumarMS&theme=default&hide_border=false" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneethKumarMS&layout=compact&theme=default&hide_border=false" alt="Top Languages"/>
+</p>
 
 
-## 🛠️ Tech Stack  
-- **Programming Languages:** Python,C(Basic)  
-- **Web Development:** HTML, CSS  
+---
 
-- **Databases:** MySQL  
+## 🚀 Languages and Tools
 
-- **Tools & Platforms:** Git, GitHub, VS Code, PyCharm, Noteboks, Chatgpt, Gemini, Replit  
-
-
-## 📌 Connect with Me  
-📧 Email: [puneethkumarms21@gmail.com](mailto:puneethkumarms21@gmail.com)  
-
-🔗 [GitHub](https://github.com/PuneethKumarMS)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
