@@ -10,13 +10,13 @@ Hi there! 👋 I'm Puneeth
 📚 Learning DSA with Python, Web Development (HTML, CSS, JavaScript), and Cybersecurity.  
 
 🛠️ Tech Stack  
-Programming Languages: Python, C (Basic)  
+**Programming Languages:** Python, C (Basic)  
 
-Web Development: HTML, CSS  
+**Web Development:** HTML, CSS  
 
-Databases: MySQL  
+**Databases:** MySQL  
 
-Tools & Platforms: Git, GitHub, VS Code, PyCharm, Noteboks, Chatgpt, Gemini, Replit  
+**Tools & Platforms:** Git, GitHub, VS Code, PyCharm, Noteboks, Chatgpt, Gemini, Replit  
 
 📌 Connect with Me  
 📧 Email: puneethkumarms21@gmail.com  
