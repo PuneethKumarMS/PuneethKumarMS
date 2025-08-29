@@ -32,7 +32,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PuneethKumarMS&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" height="165"/>
   
-  <img src="https://streak-stats.demolab.com?user=PuneethKumarMS&theme=default&hide_border=false" alt="GitHub Streak" height="165"/>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=PuneethKumarMS&theme=default&hide_border=false)
+
 </p>
 
 <p align="center">
