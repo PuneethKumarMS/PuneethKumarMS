@@ -20,7 +20,7 @@
 
 **Tools & Platforms:** Git, GitHub, VS Code, PyCharm.
 📌 Connect with Me  
-📧 Email: puneethkumarms21@gmail.com  
+📧 Email: puneethkumarms21@gmail.com 
 
 
 
