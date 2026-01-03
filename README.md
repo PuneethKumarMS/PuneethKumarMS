@@ -19,7 +19,8 @@
 **Databases:** MySQL  
 
 **Tools & Platforms:** Git, GitHub, VS Code, PyCharm.
-📌 Connect with Me  
+
+**📌 Connect with Me:**  
 📧 Email: puneethkumarms21@gmail.com 
 
 
