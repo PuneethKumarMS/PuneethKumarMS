@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=PuneethKumarMS&label=Profile%20Views&color=blue&style=flat)
 
 **Hi there! 👋 I'm Puneeth** 
-🎓 Currently in my 7th semester pursuing Computer Science & Engineering.
+🎓 Currently in my 7th semester pursuing Computer Science & Engineering. 
 
 🏆 2nd place - National Level Hackathon (AI-based Cybersecurity project, BGSIT)
 
