@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack  
 **Programming Languages:** Python, C (Basic)  
 
-**Web Development:** HTML, CSS, REACT  
+**Web Development:** HTML, CSS, REACT 
 
 **Databases:** MySQL  
 
