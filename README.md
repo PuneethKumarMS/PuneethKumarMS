@@ -12,7 +12,7 @@
 📚 Learning DSA with Python, Web Development (HTML, CSS, JavaScript), and Cybersecurity.  
 
 ## 🛠️ Tech Stack  
-**Programming Languages:** Python, C (Basic)  
+**Programming Languages:** Python, C (Basic) 
 
 **Web Development:** HTML, CSS, REACT 
 
