@@ -39,11 +39,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneethKumarMS&layout=compact&theme=default&hide_border=false" alt="Top Languages"/>
-</p>
-
-
 ---
 
 ## 🚀 Languages and Tools
