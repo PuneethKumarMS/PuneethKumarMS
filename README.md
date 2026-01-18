@@ -9,7 +9,7 @@
 
 🚀 Worked on AI Based Cyberthreat prediction and detection and Phishing Detection System projects.  
 
-📚 Learning DSA with Python, Web Development (HTML, CSS, JavaScript), and Cybersecurity.  
+📚 Learning DSA with Python and Cybersecurity.  
 
 ## 🛠️ Tech Stack  
 **Programming Languages:** Python, C (Basic) 
