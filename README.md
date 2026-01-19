@@ -15,6 +15,7 @@
 **Programming Languages:** Python, C (Basic) 
 
 **Web Development:**  FASTAPI, DjanGO, HTML, CSS, REACT
+
 **Databases:** MySQL  
 
 **Tools & Platforms:** Git, GitHub, VS Code, PyCharm.
