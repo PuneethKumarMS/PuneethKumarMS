@@ -35,7 +35,8 @@
 <p align="center">
  
   
-   <img src="https://streak-stats.demolab.com?user=PuneethKumarMS&theme=default&hide_border=false" alt="GitHub Streak" height="165"/>
+   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PuneethKumarMS)
+
 
 </p>
 
