@@ -32,11 +32,13 @@
 
 ## 📊 GitHub Stats & Streaks
 
-<p align="center">
- 
- [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=PuneethKumarMS&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
-</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=PuneethKumarMS&theme=dark&hide_border=true&background=0D1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=PuneethKumarMS&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=PuneethKumarMS&theme=dark&hide_border=true&background=0D1117">
+</picture>
 
 ---
 
