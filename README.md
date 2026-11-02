@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=PuneethKumarMS&label=Profile%20Views&color=blue&style=flat)
 
 **Hi there! 👋 I'm Puneeth**  
-🎓 Currently pursuing Computer Science & Engineering.  
+🎓 Computer Science & Engineering Graduate.  
 
 🏆 SIH Grand Finalist(TOP 5) and  2nd place - National Level Hackathon (AI-based Cybersecurity project, BGSIT) 
 
