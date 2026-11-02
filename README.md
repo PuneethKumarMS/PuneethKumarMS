@@ -11,15 +11,6 @@
 
 📚 Learning DSA with Python and Cybersecurity.  
 
-## 🛠️ Tech Stack  
-**Programming Languages:** Python, C (Basic) 
-
-**Web Development:**  FastAPI, Django, HTML, CSS, REACT, REST APIs
-
-**Databases:** MySQL  
-
-**Tools & Platforms:** Git, GitHub, VS Code, PyCharm, Copilot, Postman
-
 **📌 Connect with Me:**  
 📧 Email: puneethkumarms21@gmail.com 
 
