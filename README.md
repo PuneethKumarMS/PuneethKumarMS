@@ -3,7 +3,7 @@
 **Hi there! 👋 I'm Puneeth**  
 🎓 Currently pursuing Computer Science & Engineering.  
 
-🏆 2nd place - National Level Hackathon (AI-based Cybersecurity project, BGSIT) 
+🏆 SIH Grand Finalist(TOP 5) and  2nd place - National Level Hackathon (AI-based Cybersecurity project, BGSIT) 
 
 💡 Passionate about Software Development, Python, and Web Technologies.  
 
